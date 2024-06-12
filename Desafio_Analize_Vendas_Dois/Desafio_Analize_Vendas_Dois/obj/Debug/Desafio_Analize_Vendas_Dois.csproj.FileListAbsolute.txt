@@ -1,0 +1,7 @@
+C:\temp\projetos\Desafio_Analize_Vendas_Dois\Desafio_Analize_Vendas_Dois\bin\Debug\Desafio_Analize_Vendas_Dois.exe.config
+C:\temp\projetos\Desafio_Analize_Vendas_Dois\Desafio_Analize_Vendas_Dois\bin\Debug\Desafio_Analize_Vendas_Dois.exe
+C:\temp\projetos\Desafio_Analize_Vendas_Dois\Desafio_Analize_Vendas_Dois\bin\Debug\Desafio_Analize_Vendas_Dois.pdb
+C:\temp\projetos\Desafio_Analize_Vendas_Dois\Desafio_Analize_Vendas_Dois\obj\Debug\Desafio_Analize_Vendas_Dois.csproj.AssemblyReference.cache
+C:\temp\projetos\Desafio_Analize_Vendas_Dois\Desafio_Analize_Vendas_Dois\obj\Debug\Desafio_Analize_Vendas_Dois.csproj.CoreCompileInputs.cache
+C:\temp\projetos\Desafio_Analize_Vendas_Dois\Desafio_Analize_Vendas_Dois\obj\Debug\Desafio_Analize_Vendas_Dois.exe
+C:\temp\projetos\Desafio_Analize_Vendas_Dois\Desafio_Analize_Vendas_Dois\obj\Debug\Desafio_Analize_Vendas_Dois.pdb
